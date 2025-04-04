@@ -17,9 +17,9 @@ Developers:
 =============
 
 
-(Joao H. Jari)[https://github.com/1jari]
-(Leonardo Hunter)[https://github.com/hunter2112]
+[Joao H. Jari](https://github.com/1jari)
+[Leonardo Hunter](https://github.com/hunter2112)
 
 Official Website:
 ----
-(Lunoversis)[https://lunoversis.com]
+[Lunoversis](https://lunoversis.com)
